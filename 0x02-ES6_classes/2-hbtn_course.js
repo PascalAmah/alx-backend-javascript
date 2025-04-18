@@ -1,9 +1,9 @@
 /**
  * Represents a Holberton Course.
  */
-export default class HolbertonCourse {
+export default class ALXCourse {
   /**
-   * Creates a new @see {@link HolbertonCourse}.
+   * Creates a new @see {@link ALXCourse}.
    *
    * @param {String} name - The name of the course.
    * @param {Number} length - How long the course is (in months).
